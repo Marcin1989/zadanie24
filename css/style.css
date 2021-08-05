@@ -1,0 +1,29 @@
+body {
+    background-color: #f5f5dd;
+}
+
+
+div.first {
+    width: 120px; 
+    height: 120px;
+    background-color:black ;
+    margin-bottom: 15px;
+}
+div.second {
+    width: 120px; 
+    height: 120px;
+    background-color:rgba(0, 0, 0, 0.521) ;
+    margin-bottom: 15px;
+}
+div.third {
+    width: 120px; 
+    height: 120px;
+    background-color:rgba(0, 0, 0, 0.137) ;
+    margin-bottom: 15px;
+}
+div.fourth {
+    width: 120px; 
+    height: 120px;
+    background-color:rgba(0, 0, 0, 0.103) ;
+    margin-bottom: 15px;
+} 
